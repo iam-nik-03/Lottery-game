@@ -1,0 +1,7 @@
+.ticket{
+    border: 1px solid rgb(255, 251, 251);
+    border-radius: 14px;
+}
+#buy-btn:hover{
+ background-color: rgb(255, 0, 0);
+}
